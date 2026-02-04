@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Molecular Minds: Multi-Property Predictions for Energetic Materials
+Molecular Minds: Multi-Property Predictions for Materials
 
 Usage:
     from molecular_minds_property_predictions import predict_hof, predict_density

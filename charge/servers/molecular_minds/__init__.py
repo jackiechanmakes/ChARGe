@@ -1,4 +1,4 @@
-"""Molecular Minds: Multi-Property Predictions for Energetic Materials"""
+"""Molecular Minds: Multi-Property Predictions for Materials"""
 
 from .molecular_minds_predictor import (
     load_model,
